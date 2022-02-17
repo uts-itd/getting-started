@@ -1,5 +1,4 @@
-# getting-started
-## How to take advantage of GitHub at UTS.
+# How to take advantage of GitHub at UTS.
 
 GitHub Enterprise is both a [version control](https://betterexplained.com/articles/a-visual-guide-to-version-control/) platform and an [automation](https://docs.github.com/en/actions) platform used for [DevSecOps](https://www.devsecops.org/), [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html) & [Continuous Delivery](https://minimumcd.org/minimumcd/).
 
