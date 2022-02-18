@@ -2,6 +2,8 @@
 
 GitHub Enterprise is both a [version control](https://betterexplained.com/articles/a-visual-guide-to-version-control/) platform and an [automation](https://docs.github.com/en/actions) platform used for [DevSecOps](https://www.devsecops.org/), [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html) & [Continuous Delivery](https://minimumcd.org/minimumcd/).
 
+All UTS Staff can request access to GitHub by following [this process](https://uts.service-now.com/serviceconnect?id=kb_article_view&sysparm_article=KB0014108). We are working on making this available for UTS Students as well. 
+
 If you aren't familiar with git the best place to start is with the freely available [GitHub Training](https://lab.github.com/). The recommended courses are:
 
  - [Introduction to Git/GitHub](https://lab.github.com/githubtraining/introduction-to-github) (60m)
