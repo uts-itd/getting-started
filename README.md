@@ -15,4 +15,7 @@ If you aren't familiar with git the best place to start is with the freely avail
  - [GitHub Actions: Continuous Integration](https://lab.github.com/githubtraining/github-actions:-continuous-integration) (103m)
  - [Creating a Release Based Workflow](https://lab.github.com/githubtraining/create-a-release-based-workflow) (65m)
 
-All repositories are visible to UTS staff so if you are looking for help getting started you can search and find existing template or even production repositories for your needs. If nothing comes up at all a good place to ask for help is the [DevSecOps & Cloud](https://teams.microsoft.com/l/channel/19%3af2a50ad3f73d4976891535418e223c88%40thread.tacv2/CoP%2520DevSecOps%2520and%2520Cloud?groupId=9489e625-6fbc-416b-9a9c-4ea9254935a0&tenantId=e8911c26-cf9f-4a9c-878e-527807be8791) Community of Practice on MS Teams.
+All repositories are visible to UTS staff so if you are looking for help getting started you can search and find existing template or even production repositories for your needs. 
+
+We have enabled the [Organisation Discussions](https://github.com/orgs/uts-itd/discussions) feature to allow the Community of Practice to use the forums to ask questions and get feedback - or just to show off your latest repository. You can also share in the [DevSecOps & Cloud](https://teams.microsoft.com/l/channel/19%3af2a50ad3f73d4976891535418e223c88%40thread.tacv2/CoP%2520DevSecOps%2520and%2520Cloud?groupId=9489e625-6fbc-416b-9a9c-4ea9254935a0&tenantId=e8911c26-cf9f-4a9c-878e-527807be8791) Community of Practice on MS Teams.
+
