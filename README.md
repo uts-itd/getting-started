@@ -4,16 +4,7 @@ GitHub Enterprise is both a [version control](https://betterexplained.com/articl
 
 All UTS Staff can request access to GitHub by following [this process](https://uts.service-now.com/serviceconnect?id=kb_article_view&sysparm_article=KB0014108). We are working on making this available for UTS Students as well. 
 
-If you aren't familiar with git the best place to start is with the freely available [GitHub Training](https://lab.github.com/). The recommended courses are:
-
- - [Introduction to Git/GitHub](https://lab.github.com/githubtraining/introduction-to-github) (60m)
- - [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests) (30m)
- - [Managing merge conflicts](https://lab.github.com/githubtraining/managing-merge-conflicts) (26m)
- - [Security strategy essentials](https://lab.github.com/githubtraining/security-strategy-essentials) (55m)
- - [Securing your workflows](https://lab.github.com/githubtraining/securing-your-workflows) (20m)
- - [GitHub Actions: Hello World](https://lab.github.com/githubtraining/github-actions:-hello-world) (36m)
- - [GitHub Actions: Continuous Integration](https://lab.github.com/githubtraining/github-actions:-continuous-integration) (103m)
- - [Creating a Release Based Workflow](https://lab.github.com/githubtraining/create-a-release-based-workflow) (65m)
+If you aren't familiar with git the best place to start is with the freely available [GitHub Training](https://skills.github.com/). There is further training available on A Cloud Guru, which UTS staff can request access to.
 
 All repositories are visible to UTS staff so if you are looking for help getting started you can search and find existing template or even production repositories for your needs. 
 
